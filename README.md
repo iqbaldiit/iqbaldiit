@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - **Solution Architect** with 15+ years of experience in software design and development.  
-- Expertise in **.NET, Python, Azure, SQL, Big Data**, and cloud-native solutions.  
+- Expertise in **.NET(C#), Python, Azure, SQL, Big Data**, and cloud-native solutions.  
 - Skilled in **data pipelines, scalable architectures, and database optimization**.  
 - Passionate about mentoring teams, solving complex technical challenges, and innovation.  
 
