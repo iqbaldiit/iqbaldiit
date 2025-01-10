@@ -19,8 +19,8 @@
 - Strong experience with **ETL/ELT pipelines** and Big Data processing.  
 - Led cross-functional teams to deliver impactful solutions for diverse industries.  
 
-## 📂 Featured Projects  
-- **HRM SaaS Application**: Modular microservices architecture using FastAPI & React.js.  
+## 📂 Projects  
+- **HRM SaaS Application**: Modular microservices architecture using Asp.Net Core, Angular.  
 - **Big Data ETL Pipeline**: Unified analytics from structured, semi-structured, and unstructured data.  
 - **Azure Serverless Solution**: Image and video processing for real-time human detection.  
 
