@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages**: C#, Python, SQL, JavaScript, Typescript  
-- **Frameworks**: https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip Core, Angular 
+- **Frameworks**: asp.net Core, Angular 
 - **Databases**: MS SQL Server, PostgreSQL, MySQL, MongoDB  
 - **Cloud Platforms**: Azure, AWS  
 - **DevOps**: Docker, Kubernetes, CI/CD Pipelines  
@@ -29,10 +29,10 @@
 - Share knowledge through open-source contributions and mentoring.  
 
 ## 📫 Get in Touch  
-- **Email**: https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip  
-- **LinkedIn**: https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip
-- **LeetCode**: https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip
-- **HackerRank**: https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip
+- **Email**: iqbaldiit@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/iqbaldiit
+- **LeetCode**: https://leetcode.com/u/iqbaldiit/
+- **HackerRank**: https://www.hackerrank.com/profile/iqbaldiit
 
 
 
