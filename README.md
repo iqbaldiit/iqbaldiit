@@ -20,7 +20,7 @@
 - Led cross-functional teams to deliver impactful solutions for diverse industries.  
 
 ## 📂 Projects  
-- **POS SaaS Application**: Modular microservices architecture using https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip Core, Angular.  
+- **POS SaaS Application**: Modular microservices architecture using Asp.net Core, Angular.  
 - **Big Data ETL Pipeline**: Unified analytics from structured, semi-structured, and unstructured data.  
 - **Azure Serverless Solution**: Image and video processing for real-time human detection.  
 
